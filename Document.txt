@@ -1,0 +1,17 @@
+ 
+Page 1 :-
+You can change the button name or the introduction change what you like .
+You can change the position of you button or text.
+ 
+Page 2 :-
+You need change the contain of this page .
+You can also change the position of the your text and font size.
+ 
+Page 2:-
+You change the button name and i have insert a image in it for life line quotes .
+ 
+Page 3:-
+You need change the .image backgorund image inserted image to your own awrd image .
+same when we are calling div class 
+change the social media link and email id to .
+(If you want you can add the background of the page if need it so attractive .)
